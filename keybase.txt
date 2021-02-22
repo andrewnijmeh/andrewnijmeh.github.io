@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/andrewnijmeh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://andrewnijmeh.me
+  * I am andrewnijmeh (https://keybase.io/andrewnijmeh) on keybase.
+  * I have a public key ASB_ikfJsL2RhJaX8uuW1Feg9edDT8k4-Vxi5hyncY26Mwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207f8a47c9b0bd91849697f2eb96d457a0f5e7434fc938f95c62e61ca7718dba330a",
+      "host": "keybase.io",
+      "kid": "01207f8a47c9b0bd91849697f2eb96d457a0f5e7434fc938f95c62e61ca7718dba330a",
+      "uid": "e3a400fd8750c1dda76c15ed9a2a8b19",
+      "username": "andrewnijmeh"
+    },
+    "merkle_root": {
+      "ctime": 1614027485,
+      "hash": "0f09752aaf0723d8eb5d52c9cea1dc18835674fd743404c673e061fbadc269ea98aa3afa3d82022cca7b0460c80368c54facf09377f5104e75b8ba5cb34a19da",
+      "hash_meta": "1068a96c15763490a9cac18236f651364ec606d1c427b6ca9b978645f31497dc",
+      "seqno": 19192789
+    },
+    "service": {
+      "entropy": "8LhKP5Lzhxvlucfg6j2pZvSt",
+      "hostname": "andrewnijmeh.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1614027499,
+  "expire_in": 504576000,
+  "prev": "3efdb58baa5ec1863dad4b34b11e0187407e95bbeb385bf6fa23f98fe4c971fd",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgf4pHybC9kYSWl/LrltRXoPXnQ0/JOPlcYuYcp3GNujMKp3BheWxvYWTESpcCB8QgPv21i6pewYY9rUs0sR4Bh0B+lbvrOFv2+iP5j+TJcf3EIKsDXdn8bz/jYMsXPtOrKo+jc7sPqtE6vpRdtctL8VAsAgHCo3NpZ8RAFtuHdtJ6WgCV2ED5j7uJ870CPDsJTs0+5I9YJBvO4WpP6y+7qRpjtzMDfrlmarp9+rKI2YvUnzYn1l2nqdDUC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFCO5q+Zduie9fPnDQGoY18uGrq6NOPNXJ2yurMJsZ+5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andrewnijmeh
+
+==================================================================
